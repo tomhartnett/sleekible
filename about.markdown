@@ -14,6 +14,6 @@ My name is Tom Hartnett and I am a software developer. I've developed for web, e
 - What my next app is changes periodically.
 
 ### Other Places to Find Me
-- [twitter.com/tomhartnett](https://twitter.com/tomhartnett)
+- [Twitter](https://twitter.com/tomhartnett)
 - [LinkedIn](https://www.linkedin.com/in/0tomhartnett/)
 - [GitHub](https://github.com/tomhartnett)
