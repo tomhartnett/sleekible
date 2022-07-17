@@ -6,6 +6,8 @@ permalink: /apps/snaplists/
 
 # Snaplists
 
+![Snaplists Icon](/assets/snaplistsicon.png)
+
 Snaplists is a simple list-making app. Use it to create to-do lists, grocery lists, shopping lists, etc. Manage your lists on the go from your Apple Watch! Lists sync across all your devices.
 
 For iPhone, iPad, and Apple Watch!
