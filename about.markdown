@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Tom Hartnett and I am a software developer. I've developed for web, e-commerce, mobile, and more. These days I'm focused on developing for Apple's platforms.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+![Profile Photo](/assets/profilephoto2021.jpeg)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- I'm currently working full time as an iOS developer at a major retailer
+- I've also published a couple apps on the App Store. Feel free to read about them [on this site](/apps/).
+- I'm also always working on my next app in my free time.
+- What my next app is changes periodically.
 
-
-[jekyll-organization]: https://github.com/jekyll
+### Other Places to Find Me
+- [twitter.com/tomhartnett](https://twitter.com/tomhartnett)
+- [LinkedIn](https://www.linkedin.com/in/0tomhartnett/)
+- [GitHub](https://github.com/tomhartnett)
