@@ -10,7 +10,7 @@ My name is Tom Hartnett and I am a software developer. I've developed for web, e
 
 - I'm currently working full time as an iOS developer at a major retailer
 - I've also published a couple apps on the App Store. Feel free to read about them [on this site](/apps/).
-- I'm also always working on my next app in my free time.
+- I'm always working on my next app in my free time.
 - What my next app is changes periodically.
 
 ### Other Places to Find Me
