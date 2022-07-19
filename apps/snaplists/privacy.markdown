@@ -24,7 +24,7 @@ The Snapslists app does not use any 3rd party/external services.  There are no a
 
 ### How to Contact Us
 
-Should you have questions or concerns about this privacy policy, please email [snaplists@sleekible.com](). At this time, we only have the ability to receive and send English-language communications.
+Should you have questions or concerns about this privacy policy, please email [snaplists@sleekible.com](mailto:snaplists@sleekible.com). At this time, we only have the ability to receive and send English-language communications.
 
 ### Changes to This Policy
 
