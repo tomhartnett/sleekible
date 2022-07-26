@@ -14,3 +14,5 @@ Just for fun, I added a "Featured Emoji" to the More screen. This screen display
 It was fun coming up with how to choose a different emoji each hour to display. Basically, I am calculating the number of hours elapsed since the beginning of the year. Using that number as an index to select an emoji from the list of all emojis (as returned by the app's search function). There are actually more hours in a year than the number of emojis returned by the search, so the featured emoji will actually wrap around and start over a few times per year.
 
 ![Featured Emoji screenshot](/assets/featured-emoji.jpeg)
+
+[![Download Link](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/mk/app/searchmoji-emoji-search-app/id1067703384)
