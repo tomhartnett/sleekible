@@ -25,7 +25,6 @@ url: "https://www.sleekible.com" # the base hostname & protocol for your site, e
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
