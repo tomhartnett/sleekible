@@ -5,7 +5,7 @@ date:   2022-03-31 00:00:00 -0500
 categories:
 ---
 
-The latest version of Snaplists, 2022.2, now available in the App Store, adds widgets to the app.
+The latest version of [Snaplists](/apps/snaplists/), 2022.2, now available in the App Store, adds widgets to the app.
 
 There are multiple sizes and types of widgets supported:
 - A **Specific List** widget that shows a single list on your home screen.

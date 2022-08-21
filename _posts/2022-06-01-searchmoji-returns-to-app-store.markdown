@@ -5,7 +5,7 @@ date:   2022-06-01 00:00:00 -0500
 categories:
 ---
 
-SearchMoji is once again in **Ready for Sale** status in the App Store. I removed the app from sale last year. Honestly, working on the app no longer appealed to me and I decided it was time to retire it. However, since then, I found myself periodically opening the app on my own phone (I still had it installed), and the thought of it not being available any more bothered me. 
+[SearchMoji](/apps/searchmoji/) is once again in **Ready for Sale** status in the App Store. I removed the app from sale last year. Honestly, working on the app no longer appealed to me and I decided it was time to retire it. However, since then, I found myself periodically opening the app on my own phone (I still had it installed), and the thought of it not being available any more bothered me. 
 
 After some time, I decided to bring it back, but under some conditions:
 - I would remove the ads and the Google AdMob SDK from the app.
