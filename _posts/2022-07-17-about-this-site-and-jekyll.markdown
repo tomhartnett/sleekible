@@ -18,4 +18,4 @@ I did encounter some minor troubles getting Jekyll to work locally on my M1 MacB
 
 GitHub's support for Jekyll was very smooth. After pushing a `gh-pages` branch the first time, GitHub automatically set up the repo as a GitHub Pages site and ran the build process. Also, moving my custom domain from the older html site's repo to the new repo worked quickly and on the first attempt. 
 
-For future site improvements, I might explore different themes. For example, it would be nice if the site toggled between light & dark modes depending on the system settings. I hope to continue add posts periodically. Most likely, they'll be related to my iOS apps, but I may throw in other technical posts sometimes.
+For future site improvements, I might explore different themes. For example, it would be nice if the site toggled between light & dark modes depending on the system settings. I hope to continue to add posts periodically. Most likely, they'll be related to my iOS apps, but I may throw in other technical posts sometimes.
