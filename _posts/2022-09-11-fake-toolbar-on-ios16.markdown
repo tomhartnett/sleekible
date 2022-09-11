@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fake Toolbar on iOS 16"
-date: 2022-08-21 00:00:00 -0500
+date: 2022-09-11 00:00:00 -0500
 categories:
 ---
 
