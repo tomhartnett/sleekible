@@ -17,7 +17,7 @@ Another issue I noticed around this same time was with the toolbar on the list s
 
 ![screenshot of toolbar issue](/assets/replaced-fake-toolbar.png)
 
-Finally, the actual feature I was actually trying to implement when discovering these bugs was the addition of colors to the app. Now, a list can be assigned a color. The color is shown next to the name of the list, and the user can choose from several colors.
+Finally, the actual feature I was trying to implement when discovering these bugs was the addition of colors to the app. Now, a list can be assigned a color. The color is shown next to the name of the list, and the user can choose from several colors.
 
 ![screenshot of list colors](/assets/list-color-options.png)
 
