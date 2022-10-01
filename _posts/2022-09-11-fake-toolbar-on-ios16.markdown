@@ -5,6 +5,10 @@ date: 2022-09-11 00:00:00 -0500
 categories:
 ---
 
+_**Update 1 Oct 2022:** the workaround described in this post was not as great as I'd hoped. I have since replaced this workaround with another workaround, as described in [this blog post](/2022/10/01/scrollviewreader-crashing-on-ios16.html)._
+
+---
+<br/>
 Since the first beta version of Xcode 14 was released in early June, I have been aware of an issue with the [Snaplists app](/apps/snaplists/) on iOS 16. On the list detail screen, an **Actions** button is shown at the bottom. This button is actually a SwiftUI `Menu` placed inside a `ToolbarItem` (in a `toolbar`) using `.bottomBar` placement. 
 
 Here's a screenshot of the Actions button and the menu of list actions that is shown when it's tapped.
