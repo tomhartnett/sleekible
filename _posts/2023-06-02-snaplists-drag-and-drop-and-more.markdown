@@ -50,4 +50,4 @@ Now that the app requires iOS 16 and watchOS 9, I can think about other new Swif
 
 Version 2023.2, with drag and drop on iOS and improved item entry in the watch app, is now available in the App Store.
 
-[![Download Link](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/mk/app/snaplists-simple-lists-app/id1527429580)
+_NOTE: I removed this app from the App Store on May 27, 2024. Read about why [here](/2024/05/27/app-store-retirement.html)._

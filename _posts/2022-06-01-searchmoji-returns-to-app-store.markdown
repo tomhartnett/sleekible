@@ -21,4 +21,4 @@ I reworked the database-build process to use some publicly-available data files 
 
 With these changes, I hope to keep the app updated for the foreseeable future. Since emoji-search was added to the system keyboard in iOS 14, the need for this app has definitely decreased. However, I still occasionally find myself wanting to open up an emoji to see a larger view, read the title, etc. The app is and will probably remain in support-mode / KTLO going forward, but I plan to keep it updated with new emoji and available in the App Store.
 
-[![Download Link](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/mk/app/searchmoji-emoji-search-app/id1067703384)
+_NOTE: I removed this app from the App Store on May 27, 2024. Read about why [here](/2024/05/27/app-store-retirement.html)._

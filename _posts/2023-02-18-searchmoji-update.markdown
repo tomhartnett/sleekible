@@ -19,7 +19,9 @@ This year was the first time I could test the ease with which I could add new em
 
 Of course, iOS 16.4 hasn't shipped yet and Xcode 14.3 is still in beta, so I can't submit to the App Store yet. I'll have to wait a while before I can ship this update. In the meantime, perhaps I'll make a few more updates the app.
 
+_NOTE: I removed this app from the App Store on May 27, 2024. Read about why [here](/2024/05/27/app-store-retirement.html)._
+
 ---
 
-[^1]: _That text is in the actual title and subtitle of the [app in the App Store](https://apps.apple.com/mk/app/searchmoji-emoji-search-app/id1067703384)._
+[^1]: _That text is in the actual title and subtitle of the app in the App Store._
 [^2]: _I'm currently using files from Unicode's [cldr-json repo on GitHub](https://github.com/unicode-org/cldr-json) and this [emoji-test.txt file](https://www.unicode.org/Public/emoji/15.0/emoji-test.txt) as inputs to the command-line program._

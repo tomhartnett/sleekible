@@ -33,4 +33,4 @@ And the resulting dialog as seen on the iPhone 13 simulator:
 
 This might be the last release of Snaplists developed with Xcode 13. I'm hoping to start work soon on features using the new APIs available in iOS 16 and Xcode 14. Hopefully, these red delete buttons and confirmation prompts leave the app in a better state for anyone not upgrading from iOS 15 right away. 
 
-[![Download Link](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/mk/app/snaplists-simple-lists-app/id1527429580)
+_NOTE: I removed this app from the App Store on May 27, 2024. Read about why [here](/2024/05/27/app-store-retirement.html)._

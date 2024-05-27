@@ -47,4 +47,4 @@ And the featured emoji as seen in the app:
 
 ![Featured Emoji screenshot](/assets/featured-emoji.jpeg)
 
-[![Download Link](/assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)](https://apps.apple.com/mk/app/searchmoji-emoji-search-app/id1067703384)
+_NOTE: I removed this app from the App Store on May 27, 2024. Read about why [here](/2024/05/27/app-store-retirement.html)._
