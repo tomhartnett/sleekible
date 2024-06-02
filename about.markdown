@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Tom Hartnett and I am a software developer. I've developed for web, e-commerce, mobile, and more. These days I'm focused on developing for Apple's platforms.
-
-![Profile Photo](/assets/profilephoto2021.jpeg)
+My name is Tom Hartnett and I am a software developer. On this site I write blog posts about my software development and other tech-related activities. I've developed for web, e-commerce, mobile, and more.
 
 - I'm currently working full time as an iOS developer at a major retailer.
 - I've also published a couple apps on the App Store. Feel free to read about them [on this site](/apps/).
