@@ -11,7 +11,6 @@ My name is Tom Hartnett and I am a software developer. On this site I write blog
 - What my next app is changes periodically.
 
 ### Other Places to Find Me
-- [Threads](https://www.threads.net/@thartnett)
 - [Mastodon](https://hachyderm.io/@tomhartnett)
 - [LinkedIn](https://www.linkedin.com/in/0tomhartnett/)
 - [GitHub](https://github.com/tomhartnett)
