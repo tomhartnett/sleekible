@@ -1,0 +1,159 @@
+---
+# Only the main Sass file needs front matter (the dashes are needed)
+---
+
+@import "minima";
+
+/* Dark mode support with automatic system preference detection */
+
+:root {
+  /* Light mode colors (default) */
+  --bg-color: #fdfdfd;
+  --text-color: #111;
+  --link-color: #2a7ae2;
+  --link-visited-color: #1756a9;
+  --border-color: #e8e8e8;
+  --code-bg-color: #eef;
+  --header-bg-color: #424242;
+  --header-text-color: #fff;
+  --footer-bg-color: #424242;
+  --footer-text-color: #fff;
+  --grey-color: #828282;
+  --grey-color-light: #e8e8e8;
+  --grey-color-dark: #424242;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    /* Dark mode colors */
+    --bg-color: #1a1a1a;
+    --text-color: #e0e0e0;
+    --link-color: #6ab0f3;
+    --link-visited-color: #8ab4f8;
+    --border-color: #333;
+    --code-bg-color: #2d2d2d;
+    --header-bg-color: #0d0d0d;
+    --header-text-color: #e0e0e0;
+    --footer-bg-color: #0d0d0d;
+    --footer-text-color: #e0e0e0;
+    --grey-color: #aaa;
+    --grey-color-light: #333;
+    --grey-color-dark: #e0e0e0;
+  }
+}
+
+/* Apply colors using CSS variables */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+a {
+  color: var(--link-color);
+
+  &:visited {
+    color: var(--link-visited-color);
+  }
+}
+
+.site-header {
+  background-color: var(--header-bg-color);
+  border-top: 5px solid var(--grey-color-dark);
+  border-bottom: 1px solid var(--grey-color-light);
+}
+
+.site-title,
+.site-title:visited {
+  color: var(--header-text-color);
+}
+
+.site-nav {
+  .page-link {
+    color: var(--header-text-color);
+  }
+
+  @media screen and (max-width: 600px) {
+    background-color: var(--header-bg-color);
+  }
+}
+
+.site-footer {
+  background-color: var(--footer-bg-color);
+  border-top: 1px solid var(--grey-color-light);
+  color: var(--footer-text-color);
+}
+
+.footer-heading {
+  color: var(--footer-text-color);
+}
+
+code {
+  background-color: var(--code-bg-color);
+}
+
+pre {
+  background-color: var(--code-bg-color) !important;
+  border: 1px solid var(--border-color);
+}
+
+/* Ensure all code block variations have consistent backgrounds */
+.highlight,
+.highlighter-rouge {
+  background-color: var(--code-bg-color) !important;
+}
+
+.highlight pre,
+.highlight code,
+pre.highlight,
+pre code {
+  background-color: var(--code-bg-color) !important;
+}
+
+/* Remove background from inline code inside pre to prevent double backgrounds */
+pre > code {
+  background-color: transparent !important;
+}
+
+.post-list > li {
+  border-bottom: 1px solid var(--grey-color-light);
+}
+
+blockquote {
+  color: var(--grey-color);
+  border-left: 4px solid var(--grey-color-light);
+}
+
+table {
+  th, td {
+    border: 1px solid var(--grey-color-light);
+  }
+}
+
+/* Improve readability of code blocks in dark mode */
+@media (prefers-color-scheme: dark) {
+  .highlight {
+    background-color: var(--code-bg-color) !important;
+
+    pre, code {
+      background-color: var(--code-bg-color) !important;
+    }
+
+    .c, .c1, .cm, .cp, .cs { color: #999; }
+    .k, .kc, .kd, .kn, .kp, .kr, .kt { color: #e07aa6; }
+    .s, .s1, .s2, .sb, .sc, .sd, .se, .sh, .si, .sx { color: #a5d6a7; }
+    .na, .nb, .nc, .no, .nd, .ni, .ne, .nf { color: #82b1ff; }
+    .m, .mf, .mh, .mi, .mo, .il { color: #ffca28; }
+    .o, .ow { color: #e07aa6; }
+  }
+}
+
+/* Make sure images don't get too bright in dark mode */
+@media (prefers-color-scheme: dark) {
+  img {
+    opacity: 0.9;
+  }
+
+  img:hover {
+    opacity: 1;
+  }
+}
