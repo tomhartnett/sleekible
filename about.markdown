@@ -6,7 +6,7 @@ permalink: /about/
 
 My name is Tom Hartnett and I am a software developer. On this site I write blog posts about my software development and other tech-related activities. I've developed for web, e-commerce, mobile, and more.
 
-- I'm currently working on a mobile POS for iOS for a major payment processor.
+- I'm currently working on a well-known airline's iOS app.
 - I also work on my own apps in my free time.
 
 ### Other Places to Find Me
