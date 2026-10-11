@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name is Tom Hartnett and I am a software developer. On this site I write blog posts about my software development and other tech-related activities. I've developed for web, e-commerce, mobile, and more. Currently focused on iOS development.
+My name is Tom Hartnett and I am a software developer. On this site I write blog posts about my software development and other tech-related activities. I've developed for web, e-commerce, mobile, and more. These days I'm focused on developing for Apple's platforms.
 
 ### Other Places to Find Me
 - [Mastodon](https://hachyderm.io/@tomhartnett)
